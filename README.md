@@ -1,2 +1,2 @@
 # hello-world
-open sw platform
+Hello. This repository is for the 'open sw platform' course.
